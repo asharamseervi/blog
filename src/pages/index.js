@@ -35,7 +35,7 @@ const Hero = () => (
           max-width: ${rhythm(15)};
         `}
       >
-        Your blog says the things you want to say.
+      Passionate poetry writer for browsers? Let's contribute.
       </h1>
     </Container>
     <div

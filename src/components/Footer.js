@@ -5,7 +5,7 @@ import SubscribeForm from './Forms/Subscribe'
 import { Twitter, GitHub } from './Social'
 import Container from './Container'
 
-const Footer = ({ author, noSubscribeForm }) => (
+const Footer = ({ organization, noSubscribeForm }) => (
   <footer>
     <Container
       css={css`
@@ -35,7 +35,7 @@ const Footer = ({ author, noSubscribeForm }) => (
             opacity: 0.7;
           `}
         >
-          {author && `${author} \u00A9 ${new Date().getFullYear()}`}
+          {organization && `${organization} \u00A9 ${new Date().getFullYear()}`}
         </div>
         <div>
           <Twitter />

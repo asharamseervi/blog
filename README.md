@@ -1,12 +1,5 @@
-# egghead.io creator MDX Blog Starter Project
-
-This is based on Robin Wieruch's https://github.com/rwieruch/gatsby-mdx-blog-starter-project
-
-Lots of nice pieces are also borrowed from Jason Lengstorf https://github.com/jlengstorf/lengstorf.com
-
-A starter project in [Gatsby.js](https://www.gatsbyjs.org/) with [MDX](https://github.com/mdx-js/mdx).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/eggheadio/gatsby-starter-egghead-blog)
+## How we innovate at Aaimaa
+How production work, what bugs we face, how it get fixed, what our ideas & thoughts, and how we innovate.
 
 ## Features
 
@@ -20,8 +13,6 @@ A starter project in [Gatsby.js](https://www.gatsbyjs.org/) with [MDX](https://g
 - Site & Theme config files
 - ConvertKit subscribe form (Formik and Yup)
 - Placeholder illustrations by [Katerina Limpitsouni](https://twitter.com/ninalimpi) from [undraw.co](https://undraw.co/)
-
-## [➞ Demo](https://egghead-gatsby-starter.netlify.com/)
 
 ## Setup
 

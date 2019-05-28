@@ -154,7 +154,7 @@ export default ({
           </MDXProvider>
           {!noFooter && (
             <Footer
-              author={site.siteMetadata.author.name}
+              organization={site.siteMetadata.organization.name}
               noSubscribeForm={noSubscribeForm}
             />
           )}
@@ -169,7 +169,7 @@ export const pageQuery = graphql`
     siteMetadata {
       title
       description
-      author {
+      organization {
         name
       }
       keywords
