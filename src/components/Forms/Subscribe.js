@@ -146,7 +146,7 @@ class SignUp extends React.Component {
                       aria-label="your first name"
                       aria-required="false"
                       name="first_name"
-                      placeholder="Jane"
+                      placeholder="Ashish"
                       type="text"
                     />
                   </label>
@@ -169,7 +169,7 @@ class SignUp extends React.Component {
                       aria-label="your email address"
                       aria-required="true"
                       name="email_address"
-                      placeholder="jane@acme.com"
+                      placeholder="ashish@aaimaa.net"
                       type="email"
                     />
                   </label>

@@ -1,9 +1,10 @@
 {
-  "name": "gatsby-starter-egghead-blog",
-  "description": "This is a starter for egghead content creator blogs",
-  "version": "1.0.0",
-  "author": "egghead.io <support@egghead.io> (https://egghead.io)",
-  "repository": "https://github.com/eggheadio/gatsby-starter-egghead-blog",
+  "name": "aaimaablog",
+  "private": true,
+  "description": "How production work, what bugs we face, how it get fixed, what our ideas & thoughts, and how we innovate.",
+  "version": "0.10.1",
+  "author": "Asharam Seervi <asharam@aaimaa.in> (https://www.aaimaa.in)",
+  "repository": "https://github.com/asharamseervi/blog",
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "@emotion/styled": "^10.0.11",
@@ -58,7 +59,9 @@
     "prettier": "1.14.3"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "aaimaa",
+    "gatsby blog"
   ],
   "license": "MIT",
   "main": "n/a",
