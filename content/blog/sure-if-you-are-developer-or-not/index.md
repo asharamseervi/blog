@@ -11,7 +11,7 @@ First thing first, let be clear what your interest is !!
 
 Be assured, what actually the role of developer, engineer, tester or devops. How they all are different from one another!
 
-I will try to justify all the roles with their responsblities, what their current scnerio is, how much you will gain, and the pain. *Being front-end developer or full stack developer, project engineer or CTO, AWS Architect or Serverless Engineer is beyond this discussion.* As of now we're just discussing, weather you're developer or just a geek or beyond these two.
+I will try to justify all the roles with their responsibilities, what their current scenario is, how much you will gain, and the pain. *Being front-end developer or full stack developer, project engineer or CTO, AWS architect or serverless engineer is beyond this discussion.* As of now we're just discussing, weather you're developer or just a geek or beyond these two.
 
 ### Developer, right?
 
@@ -31,7 +31,7 @@ Few professionals believe that tester's role no longer needed, as developers can
 
 This belief is false. Why? Because, developer having lack of the tester’s strategy, perspective, and his mindset. Eventhough, mutually their role is same & have common goal, _to create a stable application without any bugs_.
 
-In software development life-cycle, developers have responsblities to complete assigned tasks by following best practices, but sometimes their self-made logic may fails to fulfill project stablity/scalablity requirements and hence, testers involves in the process. Their sole aim to find flaws and vulnerablities in the application.
+In software development life-cycle, developers have responsibilities to complete assigned tasks by following best practices, but sometimes their self-made logic may fails to fulfill project stability/scalability requirements and hence, testers involves in the process. Their sole aim to find flaws and vulnerabilities in the application.
 
 Like frontend & backend developers, testers too have wide range of domains. Functionality, Usability, Database, Interface, Compatibility, Performance and Security Testing is few of them.
 
@@ -43,11 +43,11 @@ DevOps is a culture not a particular team member's role, which promotes collabor
 
 It is different from traditional IT/Sys-admins. Life-cycle in devops have these process: Development, Testing, Integration, Deployment & Monitoring.
 
-In short, DevOps guys have to analyse, design and evaluate & execute automation scripts so it allows agile development teams to implement _Continuous Integration_ and _Continuous Delivery_. This helps them to launch products faster into the market. It is absolutely necessary to automate all the testing processes and configure them to achieve speed and agility. As we know, manual code deployment leads to human errors in production.
+In short, DevOps guys have to analyse, design and evaluate & execute automation scripts so it allows agile development teams to implement _Continuous Integration_ and _Continuous Delivery_. This concept of DevOps helps them to ship products faster, stable in production. It is absolutely necessary to automate all the testing processes and configure them to achieve speed and agility. As we know, manual code deployment leads to human errors in production.
 
 Somewhere I found while researching for DevOps to define for you guys, "`DevOps is a little tricky to define, just like its older brother Agile.`"
 
-Hope you atleast got brief understanding, exactly which role meant for what. Hey there, let me know, which role is justifing your skills or where you are currently heading to? and I also hopes, I'm able to succeed in clearification & justify with the role & responsblities with my words as mentioned respectively.
+Hope you atleast got brief understanding, exactly which role meant for what. Hey there, let me know, which role is justifying your skills or where you are currently heading to? and I also hopes, I'm able to succeed in clarification & justify with the role & responsibilities with my words as mentioned respectively.
 
 We had only talked about developer life here, whereas there is more thrill in non-developer's life `I Guess`.
 
