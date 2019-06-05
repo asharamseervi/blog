@@ -22,10 +22,8 @@ How production work, what bugs we face, how it get fixed, what our ideas & thoug
 - `gatsby develop`
 - visit http://localhost:8000
 
-## Setup via Gatsby CLI
+## Branches & Description
 
-- `gatsby new gatsby-starter-egghead-blog git@github.com:eggheadio/gatsby-starter-egghead-blog.git`
-- `cd gatsby-starter-egghead-blog`
-- `npm install`
-- `gatsby develop`
-- visit http://localhost:8000
+- `Master`      -   Which contains almost staging code.
+- `Production`  -   It will deployed. Most Stable.
+- `Develop`     -   Deal with it.
