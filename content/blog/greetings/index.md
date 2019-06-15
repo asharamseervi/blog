@@ -7,9 +7,9 @@ published: true
 banner: './banner.png'
 ---
 
-`
+```
 console.log("Hello World!");
-`
+```
 
 Hey, I'm Asharam Seervi, welcomes you at our thought blog on wide range of web technologies.
 
